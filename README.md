@@ -1,16 +1,23 @@
-# abc
+### 📸 Screenshots
 
-A new Flutter project.
+<p align="center">
+  <img src="assets/img/1.png" width="18%" alt="Screen 1">
+  <img src="assets/img/2.png" width="18%" alt="Screen 2">
+  <img src="assets/img/3.png" width="18%" alt="Screen 3">
+  <img src="assets/img/4.png" width="18%" alt="Screen 4">
+  <img src="assets/img/5.png" width="18%" alt="Screen 5">
+</p>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### 📥 Как установить приложение
 
-A few resources to get you started if this is your first Flutter project:
+1. **Разрешить установку:** В настройках Android разрешите установку из неизвестных источников.
+2. **Скачать APK:** Загрузите файл по ссылке ниже и откройте его для начала установки.
+3. **Запуск:** После завершения установки приложение появится на главном экране.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🚀 Ссылка на файл
+
+[Скачать APK файл](assets/file/app-release.apk)
